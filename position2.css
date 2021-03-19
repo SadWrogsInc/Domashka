@@ -1,0 +1,32 @@
+.position{
+    height: 500px;
+    background-image: url("img/man.png");
+    background-repeat: no-repeat;
+    background-position: top 35px left 30px;
+    background-size: 100px;
+
+}
+
+.position-content{
+    padding-left: 145px;
+    padding-top: 57px;
+}
+
+.position-title {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 1.17;
+    padding-bottom: 9px;
+
+}
+
+.position {
+    font-family: Roboto, SansSerif, serif;
+}
+
+.position-text {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.17;
+}
+
